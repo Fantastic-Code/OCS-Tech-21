@@ -63,7 +63,7 @@ minetest.register_node("aoe:padplacer",{
 
 
 --This is the Ghost Node
-minetest.register_node("testone:Ghost", {
+minetest.register_node("aoe:Ghost", {
 	description = "Slightly visible",
     drawtype = "glasslike_framed",
 	tiles = {"Ghost_Block_Texture.png"},
